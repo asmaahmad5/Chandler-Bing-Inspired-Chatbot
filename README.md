@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/asmaahmad5/Chandler-Bing-Inspired-Chatbot/refs/heads/main/Preview.PNG)
+
 🗨️ Chandler Chatbot – A Friends-Inspired AI Chatbot
 Ever wished you could chat with Chandler Bing? 😆 This chatbot brings Chandler’s iconic humor and sarcasm to life using AI.
 
